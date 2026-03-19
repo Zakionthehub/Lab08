@@ -1,7 +1,7 @@
 package com.example.lab08;
 
 public class City {
-    private String city;
+    private String city;  //adding initial comment for CI testing
     private String province;
 
     public City(String city, String province){
